@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Customer Dashboard",
+  "name": "Create Serverless App",
   "icons": [
     {
       "src": "favicon.ico",
